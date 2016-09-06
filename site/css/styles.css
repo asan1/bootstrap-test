@@ -1,0 +1,38 @@
+body{
+	font-size: 16px;
+	color:#fff;
+	background-color: 	#F0FFFF;
+	font-family:'Oxygen',sans-serif;
+}
+#header-nav{
+ background-color: #F0F8FF;
+  border-radius: 0;
+  border: 0;
+}
+
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -40px;
+}
+.nav.navbar-nav.navbar-right
+{
+color: blue;
+  text-align: center;
+  font-size: 1.4em;
+  background-color: #DEB887;
+}
+
+h2
+{
+	font-size:1.6em;
+	color:blue;
+}
+p{
+	border:1px solid black;
+	color:#6495ED;
+	height:1000px;
+}
